@@ -62,7 +62,7 @@ window.addEventListener('load', () => {
 		});
     task_updates.addEventListener('click', (e) =>{
     	if (task_updates.innerText.toLowerCase() == "task complete"){
-      task_updates.innerText="Task Not Complete";
+      task_updates.innerText="Task Incomplete";
       task_updates.style.color="#DC143C";
       }
       else
