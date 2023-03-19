@@ -1,1 +1,1 @@
-# GDSC-project
+# GDSC-technical-domain-recruitments
