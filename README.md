@@ -3,7 +3,7 @@
 
 
 
-- 🔭 I’m currently building my skillset
+- 🔭 I’m currently building my skillsets
 - 🌱 I’m currently learning Machine Learning , Deep Learning , BlockChain 
 - 👯 I’m looking to collaborate on anything new
 
